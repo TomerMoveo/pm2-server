@@ -12,7 +12,7 @@
       "development": {
         "key": "skill-server.pem",
         "user": "ubuntu",
-        "host": ["ec2"
+        "host": ["ec2-35-178-66-248.eu-west-2.compute.amazonaws.com"
         ],
         "ref": "origin/EpicureApp",
         "repo": "git@github.com:TomerMoveo/EpicureApp.git",
