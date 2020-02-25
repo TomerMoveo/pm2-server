@@ -10,7 +10,7 @@
     ],
     "deploy": {
       "development": {
-        "key": "cd desktop/skill-server.pem",
+        "key": "skill-server.pem",
         "user": "ubuntu",
         "host": ["ec2"
         ],
