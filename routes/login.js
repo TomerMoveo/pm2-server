@@ -2,7 +2,6 @@ require('dotenv').config()
 const express = require('express');
 let router = express.Router();
 const jwt = require('jsonwebtoken');
-const bcrypt = require('bcrypt');
 
 router.use(express.json())
 
